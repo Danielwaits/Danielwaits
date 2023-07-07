@@ -30,4 +30,15 @@ Test Documentation
 - preparing comprehensive bug reports and detailed session reports
 
 
+## Tools
+
+Jira
+- creation of projects and progress tracking
+- creation of bug reports
+
+Trello
+- use of Kanban boards
+
+## Work Examples
+
 
