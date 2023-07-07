@@ -16,16 +16,16 @@ Manual testing
 - performing manual functional and usability testing of web applications
 - gained hands-on experience by testing applications created for ?
   
-Unit Testing 
--
+Unit Testing
+- xfvjcjvd
 
 Exploratory Testing
--
+- yjvdjdjv
 
 Functionality Testing
--
+- vjjjjx
 
-Test documentation
+Test Documentation
 - creating state transition diagrams, and writing test cases
 - preparing comprehensive bug reports and detailed session reports
 
