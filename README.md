@@ -12,33 +12,35 @@ As an avid outdoor enthusiast, I love to plan and go on fun adventures that chal
 You can download my CV as a PDF from my Google Drive.
 
 ## Skills
-Manual testing
-- performing manual functional and usability testing of web applications
-- gained hands-on experience by testing applications created for ?
-  
-Unit Testing
-- xfvjcjvd
+- Manual testing
+- Unit Testing
+- Exploratory Testing
+- Functionality Testing
+- Test Documentation
+- Jira
+- Git | GitHub
+- NodeJS
+- Selenium
+- VS Code
+- Lucid
+- Jest
+- Typescript
+- PostMan
+- JSON
+- JMeter
+- Javascript
+- CSS
+- HTML5
 
-Exploratory Testing
-- yjvdjdjv
-
-Functionality Testing
-- vjjjjx
-
-Test Documentation
-- creating state transition diagrams, and writing test cases
-- preparing comprehensive bug reports and detailed session reports
-
-
-## Tools
-
-Jira
-- creation of projects and progress tracking
-- creation of bug reports
-
-Trello
-- use of Kanban boards
 
 ## Work Examples
 
+Out & Back Outdoor - Github Repo | Demo
+- Collaborated with a team of 4 to conduct manual testing, including performance testing, UI testing, and integration testing
+- Utilized Github and Jira to manage code and test cases in a remote environment
+  
+SwagLabs  - Github Repo | Demo
+- Conducted exploratory testing for an ecommerce website
+- Wrote and executed test plan, created test cases, and recorded results through detailed bug reports in Jira
+- Tested functionality, UI, and overall user experience using a combination of manual testing methods and automation using Selenium
 
