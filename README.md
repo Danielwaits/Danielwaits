@@ -35,10 +35,18 @@ You can download my CV as a PDF from my Google Drive.
 
 ## Work Examples
 
-Out & Back Outdoor - Github Repo | Demo
-- Collaborated with a team of 4 to conduct manual testing, including performance testing, UI testing, and integration testing
-- Utilized Github and Jira to manage code and test cases in a remote environment
-  
+**Out & Back Outdoor - Github Repo | Demo**
+
+Collaborated with a team of 4 to conduct manual testing, including performance testing, UI testing, and integration testing. Utilized Github and Jira to manage code and test cases in a remote environment.
+
+- State Tranistion Diagram (link)
+- Test Plan in Google Docs
+- - Test Case 1
+  - Test Case 2...
+- Bug reports and work in Jira
+- - bug 1
+  - bug 2
+
 SwagLabs  - Github Repo | Demo
 - Conducted exploratory testing for an ecommerce website
 - Wrote and executed test plan, created test cases, and recorded results through detailed bug reports in Jira
