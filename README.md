@@ -12,7 +12,7 @@ As an avid outdoor enthusiast, I love to plan and go on fun adventures that chal
 
 **Out & Back Outdoor**
 
-Collaborated with a team of 4 to conduct manual testing, including performance testing, UI testing, and integration testing. Utilized Github and Jira to manage code and test cases in a remote environment.
+Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing. Utilized Github and Jira to manage code and test cases in a remote environment.
 
 - State Tranistion Diagram (link)
 - [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit)
