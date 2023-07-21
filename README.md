@@ -24,7 +24,8 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
 - Bug reports and work in Jira
   - [Bug 1](https://drive.google.com/drive/folders/11y9w4Ae_9pAgjgaVK0NhojhX4P9TfFup)
 
-SwagLabs  - Github Repo | Demo
+
+**SwagLabs**
 - Conducted exploratory testing for an ecommerce website
 - Wrote and executed test plan, created test cases, and recorded results through detailed bug reports in Jira
 - Tested functionality, UI, and overall user experience using a combination of manual testing methods and automation using Selenium
