@@ -3,9 +3,16 @@
 
 
 ## About Me
-I am organized, structured and attentive to detail due to my background in home inspection. I'm a positive thinker, who can use analytical thinking skills and strong deductive reasoning. I'm determined, and enjoy working with people. A curious question asker, I enjoy solving problems.
+I bring a natural aptitude for organization, structured thinking, and meticulous attention to detail.
+I successfully completed a comprehensive program in Software Quality Assurance, equipping me with the latest industry knowledge and best practices. My passion for ensuring excellence in software products has driven me to pursue this specialized education.
 
-As an avid outdoor enthusiast, I love to plan and go on fun adventures that challenge me on a daily basis. The thrill of the unknown is the funnest part.
+🔹 Strengths: I possess a keen eye for detail and a commitment to upholding high-quality standards. These traits are instrumental in identifying potential issues and delivering optimal results in any QA role.
+
+🔹 Adaptability: I am adaptable and eager to embrace new challenges. I am motivated to leverage my existing skills and knowledge to excel in the dynamic world of software testing and quality assurance.
+
+🔹 Collaborative Spirit: I firmly believe in the power of collaboration and teamwork to achieve exceptional outcomes. I look forward to collaborating with cross-functional teams, contributing my insights, and learning from others to deliver top-notch software products.
+
+I am enthusiastic about making a positive impact in the QA domain and contributing to the success of innovative projects. If you are interested in connecting or exploring potential opportunities, feel free to reach out! Let's connect and discover how we can create value together.
 
 
 ## Work Examples
@@ -14,7 +21,6 @@ As an avid outdoor enthusiast, I love to plan and go on fun adventures that chal
 
 Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing, of an ecommerce and resell site focused on outdoor gear and apparel. Utilized Github and Jira to manage code and test cases in a remote environment.
 
-- State Tranistion Diagram (link)
 - [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit)
 - - [Test Case 1](https://docs.google.com/document/d/1yMKFd6YF-e78DaEIwxwU9ithD8MZW2Uf1Oh9dRXAL2A/edit)
   - [Test Case 2](https://docs.google.com/document/d/1G0E5HCzO_QOfb35qi6HbJ8cEafEt1PdGfUqG5hXJRGM/edit)
@@ -26,7 +32,7 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
 
 
 **SwagLabs**
-- Conducted exploratory testing for an ecommerce website
+- Conducted exploratory testing for an e-commerce website
 - Wrote and executed test plan, created test cases, and recorded results through detailed bug reports in Jira
 - Tested functionality, UI, and overall user experience using a combination of manual testing methods and automation using Selenium
 
