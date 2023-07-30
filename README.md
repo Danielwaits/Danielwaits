@@ -32,13 +32,16 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
 
 
 **SwagLabs**
+
 In this project I conducted exploratory testing on the Swag Labs website to evaluate the user experience and functionality. My capstone included creating test plans, test cases, bugs and manual testing. I was able to test the website and the following features: Login and Password input fields, user experience with navigating the online store, match between product image and text, and functionality of the shopping cart.
+
 - [Test Plan](https://docs.google.com/document/d/1ig0IO7eWRjj4B_cFI-OO9i96WHxwuLY0zJFTYyXLCg0/edit?usp=sharing)
 - - [Test Case 1](https://docs.google.com/document/d/12GMnOEqIpIYQcD0Tark2N7SjmolzFKDtbI_TYDoeED8/edit#heading=h.9a75cyopnb10)
   - [Test Case 2](https://docs.google.com/document/d/12ZWonTcEGgn4S0cEoGV1aI9xPLVHq4NnyjsTSND6qTI/edit)
   - [Test Case 3](https://docs.google.com/document/d/1XuIPmAcKvPSjqZpZcZXGpZZy6QaG8jpFLEHr3kwTO6g/edit#heading=h.9a75cyopnb10)
   - [Test Case 4](https://docs.google.com/document/d/1B9FISfdE2nTYP_9-gy2_0eB0ikqmeTaKDWpdJBeo_x4/edit)
   - [Test Case 5](https://docs.google.com/document/d/1gWuQWU6KbplOm4GSIOG9y-5IzVtzoQprSvhZIKuWU3c/edit)
+
 - Bug reports and work in Jira
   - [Bug 1](https://drive.google.com/file/d/1dYLUkkPm-uqcZfgRAlcpADkeBgA6HEm6/view?usp=sharing)
   - [Bug 2](https://drive.google.com/file/d/1-Cgl-m_Qro9ZDNvheU9_hqD96aOXFGPW/view?usp=drive_link)
