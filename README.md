@@ -31,6 +31,7 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
   - [Bug 1](https://drive.google.com/drive/folders/11y9w4Ae_9pAgjgaVK0NhojhX4P9TfFup)
 
 
+
 **SwagLabs**
 
 In this project I conducted exploratory testing on the Swag Labs website to evaluate the user experience and functionality. My capstone included creating test plans, test cases, bugs and manual testing. I was able to test the website and the following features: Login and Password input fields, user experience with navigating the online store, match between product image and text, and functionality of the shopping cart.
