@@ -22,7 +22,7 @@ I am enthusiastic about making a positive impact in the QA domain and contributi
 Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing, of an ecommerce and resell site focused on outdoor gear and apparel. Utilized Github and Jira to manage code and test cases in a remote environment.
 
 - [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit)
-- - [Test Case 1](https://docs.google.com/document/d/1yMKFd6YF-e78DaEIwxwU9ithD8MZW2Uf1Oh9dRXAL2A/edit)
+  - [Test Case 1](https://docs.google.com/document/d/1yMKFd6YF-e78DaEIwxwU9ithD8MZW2Uf1Oh9dRXAL2A/edit)
   - [Test Case 2](https://docs.google.com/document/d/1G0E5HCzO_QOfb35qi6HbJ8cEafEt1PdGfUqG5hXJRGM/edit)
   - [Test Case 3](https://docs.google.com/document/d/1eknvdAc2m_E98Nev-zWR1fy0FGrBELjGnAEqs2_a3iE/edit)
   - [Test Case 4](https://docs.google.com/document/d/1gPbY4m6qJRFF-2j4OkHYuVZErV_oIETwMx2r618ULiM/edit#heading=h.9a75cyopnb10)
@@ -36,7 +36,7 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
 In this project I conducted exploratory testing on the Swag Labs website to evaluate the user experience and functionality. My capstone included creating test plans, test cases, bugs and manual testing. I was able to test the website and the following features: Login and Password input fields, user experience with navigating the online store, match between product image and text, and functionality of the shopping cart.
 
 - [Test Plan](https://docs.google.com/document/d/1ig0IO7eWRjj4B_cFI-OO9i96WHxwuLY0zJFTYyXLCg0/edit?usp=sharing)
-- - [Test Case 1](https://docs.google.com/document/d/12GMnOEqIpIYQcD0Tark2N7SjmolzFKDtbI_TYDoeED8/edit#heading=h.9a75cyopnb10)
+  - [Test Case 1](https://docs.google.com/document/d/12GMnOEqIpIYQcD0Tark2N7SjmolzFKDtbI_TYDoeED8/edit#heading=h.9a75cyopnb10)
   - [Test Case 2](https://docs.google.com/document/d/12ZWonTcEGgn4S0cEoGV1aI9xPLVHq4NnyjsTSND6qTI/edit)
   - [Test Case 3](https://docs.google.com/document/d/1XuIPmAcKvPSjqZpZcZXGpZZy6QaG8jpFLEHr3kwTO6g/edit#heading=h.9a75cyopnb10)
   - [Test Case 4](https://docs.google.com/document/d/1B9FISfdE2nTYP_9-gy2_0eB0ikqmeTaKDWpdJBeo_x4/edit)
