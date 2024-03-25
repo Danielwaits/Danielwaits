@@ -15,9 +15,9 @@ I successfully completed a comprehensive program in Software Quality Assurance, 
 I am enthusiastic about making a positive impact in the QA domain and contributing to the success of innovative projects. If you are interested in connecting or exploring potential opportunities, feel free to reach out! Let's connect and discover how we can create value together.
 ### Intro
 
-🔹 Triune Infomatics Inc
-🔹 [Company Name 2]
-🔹 [Company Name 3]
+🔹 Devmountain | Lehi, UT
+🔹 [Out & Back Outdoor ]
+🔹 [SwagLabs]
 
 #Tech #CloudComputing #Finance #Operations #Specialist #RemoteWork #MultiCloud #GitHubCV
 
