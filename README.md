@@ -3,7 +3,7 @@
 
 
 ## About Me
-I bring a natural aptitude for organization, structured thinking, and meticulous attention to detail.
+I bring a natural aptitude for organization, structured thinking, and attention to detail.
 I successfully completed a comprehensive program in Software Quality Assurance, equipping me with the latest industry knowledge and best practices. My passion for ensuring excellence in software products has driven me to pursue this specialized education.
 
 🔹 Strengths: I possess a keen eye for detail and a commitment to upholding high-quality standards. These traits are instrumental in identifying potential issues and delivering optimal results in any QA role.
