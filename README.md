@@ -19,7 +19,7 @@ I am enthusiastic about making a positive impact in the QA domain and contributi
 🔹 [Out & Back Outdoor ]
 🔹 [SwagLabs]
 
-#QualityAnalyst #SoftwareQualityAssurance #ExploratoryTesting #ManualTesting #UnitTesting #FunctionalityTesting #Jira #TestPlan #TestCases #BugReports #Documentation #GitHub #NodeJS #Selenium #VSCode #SQL #Jest #Typescript #PostMan #JSON #JMeter #Javascript #CSS #HTML5
+#QualityAnalyst #SoftwareQualityAssurance #QASpeciallist #ExploratoryTesting #ManualTesting #UnitTesting #FunctionalityTesting #Agile #Blackbox #Jira #TestPlan #TestCases #BugReports #Documentation #GitHub #NodeJS #Selenium #VSCode #SQL #Jest #Typescript #PostMan #JSON #JMeter #Javascript #CSS #HTML5
 
 ## Work Examples
 
