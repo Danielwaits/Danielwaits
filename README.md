@@ -21,7 +21,8 @@ I am enthusiastic about making a positive impact in the QA domain and contributi
 
 Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing, of Out & Back Outdoor (https://outandbackoutdoor.com/), an ecommerce and resell site focused on outdoor gear and apparel. Utilized Github and Jira to manage code and test cases in a remote environment.
 
-- [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit) ![Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit#heading=h.14eqnmpgftie)
+- [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit)
+- ![](chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=13&url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8%2Fedit%23heading%3Dh.14eqnmpgftie)
   - [Test Case 1](https://docs.google.com/document/d/1yMKFd6YF-e78DaEIwxwU9ithD8MZW2Uf1Oh9dRXAL2A/edit)
   - [Test Case 2](https://docs.google.com/document/d/1G0E5HCzO_QOfb35qi6HbJ8cEafEt1PdGfUqG5hXJRGM/edit)
   - [Test Case 3](https://docs.google.com/document/d/1eknvdAc2m_E98Nev-zWR1fy0FGrBELjGnAEqs2_a3iE/edit)
