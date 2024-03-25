@@ -18,10 +18,8 @@ I am enthusiastic about making a positive impact in the QA domain and contributi
 ## Work Examples
 
 **Out & Back Outdoor**
-- https://outandbackoutdoor.com/
 
-
-Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing, of an ecommerce and resell site focused on outdoor gear and apparel. Utilized Github and Jira to manage code and test cases in a remote environment.
+Collaborated with a team of 4 to conduct exploratory manual testing, including unit testing and functionality testing, of Out & Back Outdoor (https://outandbackoutdoor.com/), an ecommerce and resell site focused on outdoor gear and apparel. Utilized Github and Jira to manage code and test cases in a remote environment.
 
 - [Test Plan](https://docs.google.com/document/d/1scSjPTnDz4H5Kq9_k6imjuCi67Uvi510Cu7fEh3Gnm8/edit)
   - [Test Case 1](https://docs.google.com/document/d/1yMKFd6YF-e78DaEIwxwU9ithD8MZW2Uf1Oh9dRXAL2A/edit)
