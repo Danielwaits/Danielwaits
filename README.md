@@ -19,7 +19,7 @@ I am enthusiastic about making a positive impact in the QA domain and contributi
 🔹 [Out & Back Outdoor ]
 🔹 [SwagLabs]
 
-#Tech #CloudComputing #Finance #Operations #Specialist #RemoteWork #MultiCloud #GitHubCV
+#QualityAnalyst #SoftwareQualityAssurance #ExploratoryTesting #ManualTesting #UnitTesting #FunctionalityTesting #Jira #TestPlan #TestCases #BugReports #Documentation #GitHub #NodeJS #Selenium #VSCode #SQL #Jest #Typescript #PostMan #JSON #JMeter #Javascript #CSS #HTML5
 
 ## Work Examples
 
