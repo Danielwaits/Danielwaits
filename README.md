@@ -38,6 +38,7 @@ Collaborated with a team of 4 to conduct exploratory manual testing, including u
 In this project I conducted exploratory testing on the Swag Labs (https://www.saucedemo.com/v1/index.html), to evaluate the user experience and functionality. My capstone included creating test plans, test cases, bugs and manual testing. I was able to test the website and the following features: Login and Password input fields, user experience with navigating the online store, match between product image and text, and functionality of the shopping cart.
 
 - [Test Plan](https://docs.google.com/document/d/1ig0IO7eWRjj4B_cFI-OO9i96WHxwuLY0zJFTYyXLCg0/edit?usp=sharing)
+- (https://drive.google.com/file/d/1-4HLa1_-zzSytD1XWCWbh2NL9aAOjbkZ/view?usp=drive_link)
   - [Test Case 1](https://docs.google.com/document/d/12GMnOEqIpIYQcD0Tark2N7SjmolzFKDtbI_TYDoeED8/edit#heading=h.9a75cyopnb10)
   - [Test Case 2](https://docs.google.com/document/d/12ZWonTcEGgn4S0cEoGV1aI9xPLVHq4NnyjsTSND6qTI/edit)
   - [Test Case 3](https://docs.google.com/document/d/1XuIPmAcKvPSjqZpZcZXGpZZy6QaG8jpFLEHr3kwTO6g/edit#heading=h.9a75cyopnb10)
