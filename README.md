@@ -13,7 +13,13 @@ I successfully completed a comprehensive program in Software Quality Assurance, 
 🔹 Collaborative Spirit: I firmly believe in the power of collaboration and teamwork to achieve exceptional outcomes. I look forward to collaborating with cross-functional teams, contributing my insights, and learning from others to deliver top-notch software products.
 
 I am enthusiastic about making a positive impact in the QA domain and contributing to the success of innovative projects. If you are interested in connecting or exploring potential opportunities, feel free to reach out! Let's connect and discover how we can create value together.
+### Intro
 
+🔹 Triune Infomatics Inc
+🔹 [Company Name 2]
+🔹 [Company Name 3]
+
+#Tech #CloudComputing #Finance #Operations #Specialist #RemoteWork #MultiCloud #GitHubCV
 
 ## Work Examples
 
