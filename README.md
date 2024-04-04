@@ -78,6 +78,174 @@ In this project I conducted exploratory testing on the Swag Labs (https://www.sa
 - Typescript
 - PostMan
 - JSON
+
+# Gradeness.app Test Plan
+
+**General**
+
+Description
+
+The goal of this project is to conduct exploratory testing on the Android mobile app.
+
+Identify defects, usability issues, and potential improvements.
+
+  
+
+[Gradeness.app](http://Gradeness.app) is a mobile application designed to simplify the high school experience by providing students with a roadmap of time-sensitive activities and a mobile web app platform to track their accomplishments.
+
+  
+
+**It offers features such as :**
+
+*   academic roadmap guidance
+*   accomplishment tracking
+*   communication tools
+*   personalized recommendations
+*   a reminder system for deadlines and events.
+
+  
+
+**Requirements**
+
+**Environment**
+
+*   Android mobile device: Google Pixel 7A
+*   OS version: 13
+*   Build number: TD4A.221205.042
+*   Tester: DANIEL WAITS
+*   Access to testing tools: screen capture
+
+  
+
+**Types of Testing to be Conducted**
+
+Functional testing
+
+Compatibility testing
+
+Usability testing
+
+  
+
+  
+
+**Test Activities**
+
+Installation and Launching:
+
+  
+
+Install the app from the Google Play Store or via APK.
+
+Launch the app to ensure it opens without errors.
+
+  
+
+Navigation and User Interface:
+
+  
+
+Explore different sections and screens of the app.
+
+Check navigation flow between screens.
+
+Assess the clarity and intuitiveness of the user interface.
+
+Verify responsiveness to user inputs (taps, swipes, etc.).
+
+  
+
+**Functionality Testing:**
+
+  
+
+Test core features and functionalities of the app.
+
+Verify user authentication/login process.
+
+Test various scenarios related to app usage (e.g., creating an account, making a purchase, sending messages).
+
+Verify integration with device features (e.g., camera, GPS, contacts).
+
+  
+
+Data Input and Validation:
+
+  
+
+Input different types of data into form fields.
+
+Verify validation of user inputs (e.g., required fields, format validation).
+
+  
+
+Offline Functionality:
+
+  
+
+Test app functionality in offline mode.
+
+Verify data synchronization when the device reconnects to the internet.
+
+  
+
+**Compatibility Testing:**
+
+  
+
+Test the app on different Android OS versions.
+
+Verify compatibility with different screen sizes and resolutions.
+
+Test on various Android devices (phones and tablets) from different manufacturers.
+
+  
+
+**Usability Testing:**
+
+  
+
+Evaluate overall user experience.
+
+Identify any accessibility issues (e.g., font size, color contrast).
+
+Collect feedback on usability from testers with diverse backgrounds.
+
+  
+
+  
+
+**Reporting**
+
+  
+
+Document any defects, issues, or observations encountered during testing.
+
+Prioritize issues based on severity and impact. **high****,** **med****,** **low**
+
+Provide detailed feedback and suggestions for improvement.
+
+Share insights and recommendations for enhancing the user experience.
+
+  
+
+  
+
+| **ID** | **LINK** | **RESULT** | **RANK** |
+| ---| ---| ---| --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+  
+
+**Conclusion**
+
+*   Conclude the exploratory testing process by summarizing test findings
+*   highlighting critical issues by rank
+*   recommend further actions and how to resolve this issues ect.
+*   additional testing or development iterations.
 - JMeter
 - Javascript
 - CSS
